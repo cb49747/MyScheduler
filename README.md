@@ -1,2 +1,0 @@
-# MyScheduler
-Appointment schedule app.
